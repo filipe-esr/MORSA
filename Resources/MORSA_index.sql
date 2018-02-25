@@ -1,0 +1,1 @@
+create index idx_satName on MORSA.satelite(nome)

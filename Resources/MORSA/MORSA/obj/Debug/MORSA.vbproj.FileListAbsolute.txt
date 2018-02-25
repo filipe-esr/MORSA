@@ -1,0 +1,56 @@
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.vbprojResolveAssemblyReference.cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.Form1.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.Resources.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.vbproj.GenerateResource.Cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\bin\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\bin\Debug\MORSA.pdb
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\bin\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\obj\Debug\MORSA.pdb
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.pdb
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\bin\Debug\MORSA.exe
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\bin\Debug\MORSA.pdb
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\bin\Debug\MORSA.xml
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.vbprojResolveAssemblyReference.cache
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.Form1.resources
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.Resources.resources
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\obj\Debug\MORSA.vbproj.GenerateResource.Cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.pdb
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\bin\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\bin\Debug\MORSA.pdb
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\bin\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.vbprojResolveAssemblyReference.cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.Form1.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.Resources.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA2\MORSA\obj\Debug\MORSA.vbproj.GenerateResource.Cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.pdb
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\bin\Debug\MORSA.exe
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\bin\Debug\MORSA.pdb
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\bin\Debug\MORSA.xml
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.vbprojResolveAssemblyReference.cache
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.Form1.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.Resources.resources
+C:\Users\gamel\Desktop\Luis\Universidade\Bases de dados\Project\MORSA\MORSA\MORSA\obj\Debug\MORSA.vbproj.GenerateResource.Cache
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\MORSA\MORSA\MORSA\obj\Debug\MORSA.pdb
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\Project\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\Project\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\Project\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\Project\MORSA\MORSA\obj\Debug\MORSA.pdb
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\P6G1_Projeto\MORSA\MORSA\bin\Debug\MORSA.exe.config
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\P6G1_Projeto\MORSA\MORSA\obj\Debug\MORSA.exe
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\P6G1_Projeto\MORSA\MORSA\obj\Debug\MORSA.xml
+C:\Users\Filipe\Desktop\Curso\BD\MORSA\P6G1_Projeto\MORSA\MORSA\obj\Debug\MORSA.pdb
